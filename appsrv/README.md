@@ -12,3 +12,6 @@ Running
 Additionally to the JSON responses there is also an example how to use the qute templating engine and w3css to render a html-response that looks like this:
 
 ![result of the html template generation](./documentation/images/table-in-browser.jpg)
+
+
+Test
